@@ -1,0 +1,23 @@
+function hola (x){
+	p = 
+	print (3)
+}
+#
+d_3 = "sda"
+for (x = 3; x >= 4; x++){
+	if (4 != 9){
+		f = 4
+		print (5)
+	}
+}%
+
+while (1 > ){
+	g = 3
+	print (4)
+}
+
+if 4 <= 9){
+	f = 4
+}
+&
+print (5)

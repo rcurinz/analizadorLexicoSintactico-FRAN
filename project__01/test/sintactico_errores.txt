@@ -1,0 +1,3 @@
+syntax error, unexpected print, expecting id or num
+syntax error, unexpected ), expecting id or num
+syntax error, unexpected num, expecting (
